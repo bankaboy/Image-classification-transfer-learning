@@ -9,7 +9,7 @@ This is a step by step guide of transfer learning by adapting an existing image 
 5. After training, weights and labels files will appear in file:///tmp for linux and C://tmp for windows.
 6. Put these weights file in a folder inside the classifier directory.
 7. In label_image_test.py -
-<ol>
+<ol type='a'>
         <li>Change path of model and label file to correct paths.</li>
         <li>Provide path of image to test on.</li>
 </ol>
