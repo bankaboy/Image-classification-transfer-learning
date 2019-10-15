@@ -10,8 +10,8 @@ This is a step by step guide of transfer learning by adapting an existing image 
 6. Put these weights file in a folder inside the classifier directory.
 7. In label_image_test.py -
 
->Change path of model and label file to correct paths.
->Provide path of image to test on.
+       Change path of model and label file to correct paths.
+       Provide path of image to test on.
 
 8. Run the script , output will be label:prediction.
 
