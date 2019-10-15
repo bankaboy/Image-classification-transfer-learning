@@ -9,8 +9,10 @@ This is a step by step guide of transfer learning by adapting an existing image 
 5. After training, weights and labels files will appear in file:///tmp for linux and C://tmp for windows.
 6. Put these weights file in a folder inside the classifier directory.
 7. In label_image_test.py -
-        i. Change path of model and label file to correct paths.
-        ii. Provide path of image to test on.
+
+        <li>Change path of model and label file to correct paths.</li>
+        <li>Provide path of image to test on.</li>
+
 8. Run the script , output will be label:prediction.
 
 Original blog post [here](https://medium.com/@wdalmeida6/transfer-learning-retraining-inception-v3-for-custom-image-classification-2820f653c557).
